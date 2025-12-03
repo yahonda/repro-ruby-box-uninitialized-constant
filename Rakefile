@@ -1,5 +1,4 @@
 require 'rake/testtask'
-require_relative 'constants'
 
 task default: :test
 
