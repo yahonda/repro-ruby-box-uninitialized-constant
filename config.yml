@@ -1,0 +1,3 @@
+default:
+  path: <%= FIXTURES_ROOT %>/data
+  name: test_fixture
